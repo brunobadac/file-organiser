@@ -27,3 +27,6 @@ Folder/
 
 ## Why this tool
 This tool was created as a simple workflow automation utility to help organise project files and maintain clean project directories.
+
+## Purpose
+This project was created to practice the development of pipeline tools, automation, and workflow organisation for real-time and VFX production environments.
